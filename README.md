@@ -1,4 +1,4 @@
-## Tutaj Emilia Warakomska.👋  óre wymieniam poniżej.
+## Tutaj Emilia Warakomska.👋 
 Aktualnie jestem Junior Front-end developerem. Kończę uczyć się technologii, które wymieniam poniżej. 
 Mam doświadczenie w Teamwork, marketingu (premium pricing) również marketingu internetowym (content, video, blog, podstawy automatyzacji), 
 budowaniu marek na archetypach, zarządzania i tworzenia eventów. 
