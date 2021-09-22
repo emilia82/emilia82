@@ -37,9 +37,9 @@ Bardzo ważny jest dla mnie rozwój, jestem osobą ambitną i w każdej dziedzin
 
 ## Chcę się nauczyć 👀  🌱 
 
-- Cypress/Selenium
-- Angular 
-- Testing 
+- Selenium
+- UX/UI design
+
 
 
 ## Zapraszam do kontaktu  📫 
